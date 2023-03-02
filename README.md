@@ -6,4 +6,4 @@ El presente readme presentara la documentacion necesaria a modo de una guia expl
 
 ## Problematica
 La maestría en computación necesita la implementación de una aplicación web que permita gestionar las asignaturas, cursos y estudiantes, así como matricular a los estudiantes en los cursos. Como parte de la arquitectura, se ha desarrollado el siguiente diagrama de clases:
-![Diagrama de clases base](https://raw.githubusercontent.com/parzibyte/WaterPy/master/assets/ImagenV1.png)
+![Diagrama de clases base](https://github.com/edynsonmj/Empresarial_full_stack/blob/main/recursosRM/recurso%201.png)
